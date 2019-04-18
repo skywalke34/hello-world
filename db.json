@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "name": "lmswp",
+      "value": "lmswp"
+    },
+    {
+      "name": "biapps-crmau",
+      "value": "biapps-crmau"
+    },
+    {
+      "name": "clm-crmau",
+      "value": "clm-crmau"
+    }
+  ],
+  "first": {
+    "$ref": "https://apex.oraclecorp.com/pls/apex/cas-meta/akam/kurt"
+  }
+}
